@@ -1,0 +1,168 @@
+a[target] {
+    background-color: yellow;
+}
+
+p[class="dog"] {
+    color: brown;
+}
+
+[class^="top"] {
+    background: yellow;
+}
+
+.my-class {
+
+    font-size: 3em;
+
+}
+
+.myClass {
+
+    height: 30ex;
+
+}
+
+.myClass {
+
+    width: 120%;
+
+}
+
+.class-name {
+
+    width: 10vw;
+
+    height: 50vh;
+
+}
+
+h2 {
+
+    font-family: Arial, Verdana, serif;
+
+}
+
+#normal {
+
+    font-style: normal;
+
+}
+
+#italic {
+
+    font-style: italic;
+
+}
+
+#oblique {
+
+    font-style: oblique;
+
+}
+
+p {
+
+    font-size: 14pt;
+
+}
+
+h1 {
+
+    font-size: 240%;
+
+}
+
+h2 {
+
+    font-size: 200%;
+
+}
+
+h3 {
+
+    font-size: 160%;
+
+}
+
+h4 {
+
+    font-size: 120%;
+
+}
+
+.class-name {
+
+    font-weight: bold;
+
+}
+
+h1 {
+
+    text-align: justify;
+
+}
+
+.class-name {
+
+    text-decoration: underline;
+
+}
+
+p {
+
+    word-spacing: 1em;
+    letter-spacing: 1em;
+    line-height: 150%;
+}
+
+p.one {
+    background-color: #eeeeee;
+    color: #666666;
+    text-shadow: 1px 1px 0px #000000;
+
+}
+
+p.intro:first-letter {
+    font-size: 200%;
+
+}
+
+p.intro:first-line {
+    font-weight: bold;
+
+}
+
+.upper {
+
+    text-transform: uppercase;
+
+}
+
+p {
+
+    text-indent: 20px;
+
+}
+
+@font-face {
+    font-family: 'CodingApocalypseFont';
+    src: url('fonts/codingapocalypse.eot');
+}
+
+body {
+
+    font-family: 'Chivo', sans-serif;
+
+}
+
+.class-name {
+
+    color: #f700ff;
+
+}
+
+.class-name {
+
+    background-color: rgb(255, 128, 0);
+
+}
